@@ -716,7 +716,7 @@
                         "type": "string",
                         "required": false,
                         "in": "query",
-                        "name": “type”,
+                        "name": "type",
                         "description": "For filtering: Type of the service specification"
                     },
                     {
@@ -1598,9 +1598,9 @@
                     "type": "string",
                     "description": "Name of the service specification"
                 },
-                “type”: {
+                "type": {
                     "type": "string",
-                    "description": “Type of the service specification"
+                    "description": "Type of the service specification"
                 },
                 "description": {
                     "type": "string",
@@ -1681,9 +1681,9 @@
                     "type": "string",
                     "description": "Name of the service specification"
                 },
-                “type”: {
+                "type": {
                     "type": "string",
-                    "description": “Type of the service specification"
+                    "description": "Type of the service specification"
                 },
                 "description": {
                     "type": "string",
@@ -1754,9 +1754,9 @@
                     "type": "string",
                     "description": "Name of the service specification"
                 },
-                “type”: {
+                "type": {
                     "type": "string",
-                    "description": “Type of the service specification"
+                    "description": "Type of the service specification"
                 },
                 "description": {
                     "type": "string",
